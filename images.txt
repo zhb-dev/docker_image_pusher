@@ -1,2 +1,1 @@
-metacontroller/metacontroller:v2.0.4
-
+langgenius/dify-api:1.0.0
