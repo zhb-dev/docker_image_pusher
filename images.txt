@@ -1,1 +1,1 @@
-docker.io/bitnami/kubectl:1.30.4
+gcr.io/istio-release/install-cni:1.24.3
