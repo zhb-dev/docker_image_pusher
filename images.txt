@@ -1,5 +1,3 @@
 gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler
 gcr.io/knative-releases/knative.dev/serving/cmd/controller
-gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
-gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook
 gcr.io/knative-releases/knative.dev/serving/cmd/webhook
