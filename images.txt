@@ -1,1 +1,5 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:cc39d40985f7b37ba384a857d194a24ac5eae7e204aac4ed9bf4ebfd8d62e721
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler
+gcr.io/knative-releases/knative.dev/serving/cmd/controller
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
+gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook
