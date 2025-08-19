@@ -1,2 +1,1 @@
-gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
-gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook
+kserve/kserve-controller:v0.14.1
