@@ -1,1 +1,1 @@
-kubeflow/training-operator
+docker.io/kubeflow/spark-operator:2.1.0
