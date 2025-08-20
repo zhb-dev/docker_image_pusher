@@ -1,1 +1,1 @@
-kserve/kserve-controller:v0.14.1
+kserve/kserve-localmodel-controller:v0.14.1
