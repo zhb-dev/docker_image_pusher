@@ -1,1 +1,1 @@
-kserve/kserve-localmodel-controller:v0.14.1
+kserve/models-web-app:v0.14.0-rc.0
