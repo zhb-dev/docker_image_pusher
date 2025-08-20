@@ -1,1 +1,1 @@
-mysql:8.0.29
+kubeflow/training-operator
