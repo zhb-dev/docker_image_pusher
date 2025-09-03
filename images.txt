@@ -1,1 +1,1 @@
-domain.local/apiserver:local
+kserve/kserve-controller:v0.15.0
