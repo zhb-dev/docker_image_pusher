@@ -1,1 +1,2 @@
-kserve/kserve-localmodel-controller:v0.15.0
+
+mysql:8.4
